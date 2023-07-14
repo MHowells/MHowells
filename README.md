@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=MHowells)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 ## 👨‍🎓 About Me
@@ -24,7 +26,6 @@ Here are some ideas to get you started:
 
 ## 🔗 Links
 
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/MHowells)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/matthewahowells/)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white)](https://orcid.org/0000-0002-3931-7027)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Matthew-Howells-2)
@@ -32,5 +33,4 @@ Here are some ideas to get you started:
 
 ## 📈 GitHub Stats
 
-[![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=MHowells)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MHowells)](https://git.io/streak-stats)
